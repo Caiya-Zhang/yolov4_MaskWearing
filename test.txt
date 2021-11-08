@@ -1,0 +1,13 @@
+data/obj/0011.jpg
+data/obj/0012.jpg
+data/obj/004.jpg
+data/obj/0013.jpg
+data/obj/0014.jpg
+data/obj/0015.jpg
+data/obj/018.jpg
+data/obj/0016.jpg
+data/obj/0017.jpg
+data/obj/024.jpg
+data/obj/0018.jpg
+data/obj/0019.jpg
+data/obj/0020.jpg
